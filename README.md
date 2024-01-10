@@ -1,4 +1,4 @@
-#English-taught BA Linguistics programs in the Netherlands
+# English-taught BA Linguistics programs in the Netherlands
 
 This is a short introductions about the English-taught BA Linguistics programs in the Netherlands. 
 
